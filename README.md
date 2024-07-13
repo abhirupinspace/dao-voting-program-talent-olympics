@@ -1,7 +1,6 @@
 # DAO Voting Program
 Anchor project by Abhirup Banerjee for Superteam Talent olympics
 
-![Project Image](url_to_your_project_image)
 
 ## Table of Contents
 
