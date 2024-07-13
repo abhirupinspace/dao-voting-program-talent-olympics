@@ -1,4 +1,5 @@
 # DAO Voting Program
+Anchor project by Abhirup Banerjee for Superteam Talent olympics
 
 ![Project Image](url_to_your_project_image)
 
@@ -54,6 +55,3 @@ To build the project, use the following command:
 
 ```bash
 cargo build --release
-
-
-To run the tests:
