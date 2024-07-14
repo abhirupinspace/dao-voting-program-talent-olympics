@@ -12,8 +12,6 @@ Anchor project by Abhirup Banerjee for Superteam Talent olympics
   - [Installation](#installation)
   - [Testing](#testing)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -53,4 +51,18 @@ Before running this project locally, ensure you have the following installed:
 To build the project, use the following command:
 
 ```bash
-cargo build --release
+cargo build
+```
+## Testing
+To run the tests:
+```bash
+cargo test
+```
+## Testing
+## Deploying the Program
+Deploy the program to a local Solana cluster using Anchor:
+```bash
+anchor deploy
+```
+Interacting with the Program
+Once deployed, interact with the program using its frontend or API endpoints.
